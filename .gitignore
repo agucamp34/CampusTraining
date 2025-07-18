@@ -1,0 +1,15 @@
+# Ignorar archivos y carpetas internas
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.tmp
+*.dbmdl
+*.DS_Store
+*.swp
